@@ -44,7 +44,7 @@
 
         <meta-data
             android:name="OnlineMaps.Key"
-            android:value="Zfa04ukTA3OsQjWkw9bmd3HkNrWIiTWl" />
+            android:value="Zfa04ukTA3OsjWkw9bmd3HkNrWIiTWl" />
 
         <activity
             android:name=".app.ui.controllers.controllers.MainActivity"
