@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AppWhere</string>
+    <string name="userEmail">Correo Electronico</string>
+    <string name="userPass">Contraseña</string>
+    <string name="nombre">Nombre</string>
+    <string name="direccion">Dirección</string>
+    <string name="add">Añadir</string>
+    <string name="telefono">Teléfono</string>
+    <string name="latitud">Latitud</string>
+    <string name="longitud">Longitud</string>
+    <string name="maps">Mapa</string>
+    <string name="sucursales">Sucursales</string>
+    <string name="agregar">Agregar</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
